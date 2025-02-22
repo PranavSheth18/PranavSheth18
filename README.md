@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavsheth18/">LinkedIn</a> •
-  <a href="https://pranavsheth18.github.io/">Portfolio</a> •
+  <!--<a href="https://pranavsheth18.github.io/">Portfolio</a> •-->
   <a href="mailto:pranavns18@gmail.com">Email</a>
 </p>
 
@@ -58,7 +58,7 @@
 🔹 **Description:** A **secure patient medical record system** ensuring **data integrity and privacy**.  
 🔹 **Features:** Role-based authentication, real-time data updates, and HIPAA compliance.
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavSheth18&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
+--->
 
 ## 📜 Certifications & Achievements
 
@@ -92,7 +92,7 @@
 <p align="center">
   <a href="mailto:pranavns18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pranavsheth18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PranavSheth18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!--<a href="https://github.com/PranavSheth18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>-->
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 💡 Fun Fact
 
 - 🚀 I enjoy **solving LeetCode problems** and optimizing complex algorithms.  
-- 🎮 Love playing **Valorant & Open-World RPGs** in my free time.  
+- ♟🎸 Love playing **Chess and guitar** in my free time.  
 - 🎨 Interested in **designing intuitive UI/UX experiences**.
 
 ---
